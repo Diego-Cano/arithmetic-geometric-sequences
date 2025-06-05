@@ -1,0 +1,2 @@
+# arithmetic-geometric-sequences
+Assignment 
